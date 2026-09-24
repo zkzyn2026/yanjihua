@@ -1,0 +1,18 @@
+{
+  "name": "研计划",
+  "short_name": "研计划",
+  "description": "研究生专属的本地离线计划本：文献阅读、竞赛记录、项目课题、英语学习，数据全部保存在本机设备。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fa",
+  "theme_color": "#2c5aa0",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
